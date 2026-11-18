@@ -12,7 +12,7 @@ USE THE APP : https://custom-event-remainder-app.pages.dev/
 </p>
 
 <p align="center">
-  A cute, aesthetic and personalized productivity planner designed to make organizing your everyday life a little more magical. ✨
+  A cute, aesthetic and personalized productivity planner designed to make organizing your everyday life a little more magical. 
 </p>
 
 ---
@@ -29,14 +29,14 @@ Think of it as your own personal productivity corner. ♡
 
 | Icon | Feature | Description |
 |---|---|---|
-| 📋 | **Task Manager** | Create, edit, delete, star and complete tasks. |
-|  | **Event Planner** | Organize events with dates, times, places and pastel color labels. |
-|  | **Custom Tables** | Create personalized tables for grades, budgets, lists and more. |
-|  | **Dashboard** | Track completed tasks, overdue tasks, upcoming events and weekly plans. |
-|  | **Personal Profile** | Add your name, birthday, profile picture and a custom banner. |
-|  | **Backup & Restore** | Export and restore your planner data. |
-|  | **Dark Mode** | Switch between soft light and dark aesthetics. |
-|  | **Responsive Design** | Designed to work across different screen sizes. |
+| ♡ | **Task Manager** | Create, edit, delete, star and complete tasks. |
+| ♡ | **Event Planner** | Organize events with dates, times, places and pastel color labels. |
+| ♡ | **Custom Tables** | Create personalized tables for grades, budgets, lists and more. |
+| ♡ | **Dashboard** | Track completed tasks, overdue tasks, upcoming events and weekly plans. |
+| ♡ | **Personal Profile** | Add your name, birthday, profile picture and a custom banner. |
+| ♡ | **Backup & Restore** | Export and restore your planner data. |
+| ♡ | **Dark Mode** | Switch between soft light and dark aesthetics. |
+| ♡ | **Responsive Design** | Designed to work across different screen sizes. |
 
 ## Aesthetic & Interface
 
