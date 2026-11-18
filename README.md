@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Made%20with-Love-ef9eb9?style=for-the-badge" />
 </p>
 
+USE THE APP : https://custom-event-remainder-app.pages.dev/
 <p align="center">
   <i>♡ A little space to organize your big dreams. ♡</i>
 </p>
