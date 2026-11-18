@@ -1,4 +1,4 @@
-# 🎀 Planner.exe — Your Little Digital Space ♡
+# ᭡ଓ ‎ Planner.exe — Your Little Digital Space ♡
 
 <p align="center">
   <img src="https://img.shields.io/badge/Planner.exe-Baby%20Pink-f4b6c8?style=for-the-badge&labelColor=fff0f5" />
@@ -17,7 +17,7 @@ USE THE APP : https://custom-event-remainder-app.pages.dev/
 
 ---
 
-## 🌷 About the Project
+##  About the Project
 
 **Planner.exe** is a personal digital planner with a soft pastel aesthetic and a retro-inspired desktop interface.
 
@@ -25,20 +25,20 @@ From managing daily tasks to organizing events, tracking progress and creating c
 
 Think of it as your own personal productivity corner. ♡
 
-## 🧸 Features
+##  Features
 
 | Icon | Feature | Description |
 |---|---|---|
 | 📋 | **Task Manager** | Create, edit, delete, star and complete tasks. |
-| 🎀 | **Event Planner** | Organize events with dates, times, places and pastel color labels. |
-| 📖 | **Custom Tables** | Create personalized tables for grades, budgets, lists and more. |
-| 📊 | **Dashboard** | Track completed tasks, overdue tasks, upcoming events and weekly plans. |
-| 🪞 | **Personal Profile** | Add your name, birthday, profile picture and a custom banner. |
-| 💾 | **Backup & Restore** | Export and restore your planner data. |
-| 🌙 | **Dark Mode** | Switch between soft light and dark aesthetics. |
-| 📱 | **Responsive Design** | Designed to work across different screen sizes. |
+|  | **Event Planner** | Organize events with dates, times, places and pastel color labels. |
+|  | **Custom Tables** | Create personalized tables for grades, budgets, lists and more. |
+|  | **Dashboard** | Track completed tasks, overdue tasks, upcoming events and weekly plans. |
+|  | **Personal Profile** | Add your name, birthday, profile picture and a custom banner. |
+|  | **Backup & Restore** | Export and restore your planner data. |
+|  | **Dark Mode** | Switch between soft light and dark aesthetics. |
+|  | **Responsive Design** | Designed to work across different screen sizes. |
 
-## 🎨 Aesthetic & Interface
+## Aesthetic & Interface
 
 - Baby pink, lavender and pastel-inspired color palette.
 - Rounded cards and soft borders.
@@ -62,7 +62,7 @@ Think of it as your own personal productivity corner. ♡
 - **LocalStorage** — Saving planner data locally
 - **Cloudflare Pages** — Deployment and hosting
 
-## 🚀 Getting Started
+##  Getting Started
 
 Want your own little planner?
 
